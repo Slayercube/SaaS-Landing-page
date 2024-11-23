@@ -6,3 +6,5 @@ Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS th
 
 - npm install
 - npm run dev
+
+Domain link==> https://oxra-landing-page.deepakkumar.eu/
